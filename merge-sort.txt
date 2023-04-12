@@ -13,3 +13,6 @@
          [11, 16, 21]    [8, 12, 22]     --> birleştirme devam
                     \    /         \
                 [8, 11, 12, 16, 21, 22]  --> sonuç
+
+
+big O notation : O(n log n)
